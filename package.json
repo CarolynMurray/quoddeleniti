@@ -1,0 +1,23 @@
+{
+  "name": "quoddeleniti",
+  "version": "1.0.0",
+  "description": "FusionCharts JavaScript charting framework for distribution",
+  "main": "fusioncharts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarolynMurray/quoddeleniti.git"
+  },
+  "keywords": [
+    "quam",
+    "interactive-charts",
+    "charts",
+    "graphs",
+    "visualization",
+    "quia",
+    "voluptas",
+    "browserify",
+    "error"
+  ],
+  "author": "MarceloRussel",
+  "license": "http://www.fusioncharts.com/buy/"
+}
